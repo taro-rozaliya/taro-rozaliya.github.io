@@ -1,0 +1,7 @@
+if (typeof mozLocalization == 'undefined') {
+	var mozLocalization = {};
+}
+mozLocalization['cmCatalogCartAdd'] = "Добавить в корзину";
+mozLocalization['cmCatalogCartAdded'] = "Предмет добавлен в корзину";
+mozLocalization['cmCatalogCartView'] = "Просмотр";
+mozLocalization['erInMaintenanceMode'] = "Мы сейчас не можем обработать ваш запрос. Повторите попытку позже.";
